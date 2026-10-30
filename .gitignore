@@ -18,6 +18,7 @@ ExportedObj/
 *.unityproj
 *.sln
 *.suo
+*.vsconfig
 *.tmp
 *.user
 *.userprefs
